@@ -1,0 +1,137 @@
+body{
+    background-attachment: fixed;
+    background-color: rgb(235, 231, 226);
+}
+
+
+
+header{
+    text-align: center;
+    background-color: rgb(8, 158, 166);
+    border-radius: 5px;
+    font-size: 23px;
+    font-weight: 100;
+}
+
+button{
+    border-radius: 1em;
+    padding: 9px;
+    padding-left: 5px;
+    margin: 25px;
+    background-color: rgb(235, 126, 116);
+    color: aliceblue;
+
+}
+
+#boxa{
+margin: 25px;
+display: flex;
+background-attachment: fixed;
+justify-content: center;
+border-radius: 20px;
+}
+
+#box1{
+    background-color: rgb(247, 71, 71);
+    width: 100px;
+    height: 100px;
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+    border-radius: 15px;
+    margin: 100px;
+    box-shadow: 5px 5px 5px;
+    cursor: pointer;
+    transition: 1s;
+
+}
+
+#boxb{
+    border-radius: 20px;
+    margin: 25px;
+    display: flex;
+    background-attachment: fixed;
+    justify-content: center;
+    }
+    
+    #box2{
+        background-color: rgb(66, 154, 227);
+        width: 100px;
+        height: 100px;
+        padding: 30px;
+        text-align: center;
+        font-size: 50px;
+        border-radius: 15px;
+        margin: 100px;
+        box-shadow: 5px 5px 5px;
+            
+    }
+
+    #boxc{
+        border-radius: 20px;
+         margin: 25px;
+        display: flex;
+        justify-content: center;
+        }
+        
+        #box3{
+            background-color: rgb(167, 84, 206);
+            width: 100px;
+            height: 100px;
+            padding: 30px;
+            text-align: center;
+            font-size: 50px;
+            border-radius: 15px;
+            margin: 100px;
+            box-shadow: 5px 5px 5px;
+                
+        }
+
+        #boxd{
+            border-radius: 20px;
+
+            margin: 25px;
+            display: flex;
+            justify-content: center;
+            }
+            
+            #box4{
+                background-color: rgb(56, 209, 220);
+                width: 100px;
+                height: 100px;
+                padding: 30px;
+                text-align: center;
+                font-size: 50px;
+                border-radius: 15px;
+                margin: 100px;
+                box-shadow: 5px 5px 5px;
+                    
+            }
+                        
+
+            #boxe{ 
+                border-radius: 20px;
+
+                margin: 25px;
+                display: flex;
+                justify-content: center;
+                }
+                
+                #box5{
+                    background-color: rgb(58, 99, 232);
+                    width: 100px;
+                    height: 100px;
+                    padding: 30px;
+                    text-align: center;
+                    font-size: 50px;
+                    border-radius: 15px;
+                    margin: 100px;
+                    box-shadow: 5px 5px 5px;
+                        
+                }
+
+#box1:hover{
+    background-color: rgb(240, 35, 35);
+    transform: scale(1.2);
+
+}
